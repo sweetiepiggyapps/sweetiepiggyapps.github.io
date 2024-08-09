@@ -1,3 +1,0 @@
-991,0,,Blue Line Bus,Blue Line Bus,3,https://www.metrotransit.org/route/blubus,0053A0,,2
-902,0,,METRO Green Line,Green Line - Mpls - St Paul,0,https://www.metrotransit.org/route/green,008144,ffffff,3
-83,2,83,,Rosedale - Lexington Av,3,https://www.metrotransit.org/route/83,,000000,46
